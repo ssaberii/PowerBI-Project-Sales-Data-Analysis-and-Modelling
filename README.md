@@ -61,6 +61,4 @@ Power BI Report (.pbix): Interactive dashboards and visualizations.
 
 Sample Dataset (.csv): Cleaned and processed sales data.
 
-Documentation: Steps for data modeling, DAX formulas, and dashboard usage.
-
 Screenshots: Preview of key dashboards and insights.
